@@ -8,5 +8,5 @@
 3.vue-cli安装
 4.iview引入
 
-5.环境安装好以后拷贝到根目录，执行npm install
+5.环境安装好以后拷贝到指定目录，到根目录执行npm install安装依赖
 6.运行项目 npm run dev
